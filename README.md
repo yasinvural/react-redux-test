@@ -1,6 +1,6 @@
 # react-redux-test
 
-This is sample react redux project. There are basic and simple examples which are counter and todo.
+This is sample react redux project. There are two basic and simple components which are counter and todo.
 
 My aim is just learning the redux. How to create store, action and reducers. What are the relations between them. To clarify, just create this repo.
 
