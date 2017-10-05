@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+li{
+  list-style-type: none;
+}
+
+.itemTrue{
+  text-decoration: line-through;
+}
+
+.itemFalse{
+  text-decoration: none;
+}
+
+.js-counter-container{
+  padding:0 20px;
+}
+
+.js-counter-container .js-counter-column{
+  padding : 20px 0;
+}
+
+.js-item-container{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.js-item-container .js-card{
+  margin: 10px 20px;
+  padding: 10px;
+  border-radius: 8px;
+}
