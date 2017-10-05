@@ -6,7 +6,7 @@ My aim is just learning the redux. How to create store, action and reducers. Wha
 
 To be able to use this repo,
 
-1)git clone https://github.com/yasinvural/react-redux-test.git
+1) git clone https://github.com/yasinvural/react-redux-test.git
 
 2) cd react-redux-test
 
